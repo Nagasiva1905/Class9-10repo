@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T09:37:33.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="B6W5ULehKwWlJ2voJFvf" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T10:05:52.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="7ypg0OEBn5PmoYvpZHSH" version="13.10.1" type="github" pages="2">
   <diagram id="dczaTCFO-Prc4Xv91lC_" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,6 +376,29 @@
         </mxCell>
         <mxCell id="dcX3_OKsn1yVr1EE7Z9R-26" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;Offline Charging&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6D3E9C;" parent="1" vertex="1">
           <mxGeometry x="298" y="258.75" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="emBpoDDQHi7ankBB4eBQ" name="Page-2">
+    <mxGraphModel dx="868" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="kLQzN5aUTK6PEsNRKoTr-0" />
+        <mxCell id="kLQzN5aUTK6PEsNRKoTr-1" parent="kLQzN5aUTK6PEsNRKoTr-0" />
+        <mxCell id="pA9SVRrmrqsEENt89Ioi-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;fillColor=#2072B8;fontSize=12;" vertex="1" parent="kLQzN5aUTK6PEsNRKoTr-1">
+          <mxGeometry x="410" y="170" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pA9SVRrmrqsEENt89Ioi-2" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;fillColor=#7FBA42;fontSize=12;" vertex="1" parent="kLQzN5aUTK6PEsNRKoTr-1">
+          <mxGeometry x="380" y="170" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pA9SVRrmrqsEENt89Ioi-3" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;fillColor=#FFD966;fontSize=12;" vertex="1" parent="kLQzN5aUTK6PEsNRKoTr-1">
+          <mxGeometry x="440" y="170" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pA9SVRrmrqsEENt89Ioi-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_generic;fillColor=#CCCBCB;fontSize=12;" vertex="1" parent="kLQzN5aUTK6PEsNRKoTr-1">
+          <mxGeometry x="470" y="170" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="pA9SVRrmrqsEENt89Ioi-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;glass=0;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="kLQzN5aUTK6PEsNRKoTr-1">
+          <mxGeometry x="370" y="150" width="130" height="51.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
